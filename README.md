@@ -2,6 +2,8 @@
 
 ## Description
 
+Our E-Hailing Mobile Application is a fast, reliable and efficient service that can easily connect passengers with nearby drivers. 
+
 | Group Members | Matric Number |
 | ------------- | ------------- |
 | LAU YU XUAN | A25CS5015 |
