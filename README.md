@@ -1,8 +1,13 @@
 # Group5_Project1_SAD_20252026
 
-## Description
+##Project SECD2613-05 System Analysis & Design
 
-Our E-Hailing Mobile Application is a fast, reliable and efficient service that can easily connect passengers with nearby drivers. 
+### Description
+
+Our E-Hailing Mobile Application is a fast, reliable, and efficient service that can easily connect passengers with nearby drivers. Specifically designed to improve the commuting experience for UTM students, this system bridges the gap between campus mobility and digital innovation.
+
+The system 
+
 
 | Group Members | Matric Number |
 | ------------- | ------------- |
